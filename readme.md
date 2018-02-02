@@ -48,3 +48,7 @@
 ## Design `ohioarms`
 
 ![](./images/ohioarms.png)
+
+## Design `ohioarms-1`
+
+![](./images/ohioarms-1.png)
