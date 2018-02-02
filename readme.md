@@ -61,6 +61,10 @@
 
 ![](./images/ohioarms-1.png)
 
+## Design `ohioarms-2`
+
+![](./images/ohioarms-2.png)
+
 ## Design `clippy`
 
 ![](./images/clippy.png)
