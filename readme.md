@@ -73,3 +73,7 @@
 ## Design `ninja-brutus`
 
 ![](./images/ninja-brutus.png)
+
+## Design `ninja-brutus-2`
+
+![](./images/ninja-brutus-2.png)
