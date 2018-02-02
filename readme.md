@@ -68,3 +68,8 @@
 ## Design `clippy`
 
 ![](./images/clippy.png)
+
+
+## Design `ninja-brutus`
+
+![](./images/ninja-brutus.png)
