@@ -1,5 +1,6 @@
-# Microsoft - OSU Design Ideas
+# Microsoft - OSU T-Shirt Design Ideas
 
+### ***Disclaimer: I do not claim to own or distribute the logos of The Ohio State University or Microsoft. The logos of each organization are theirs respectively.***
 
 ## Design `1`
 
