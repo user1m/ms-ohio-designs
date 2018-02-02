@@ -45,6 +45,14 @@
 
 ![](./images/7.png)
 
+## Design `8`
+
+![](./images/8.png)
+
+## Design `9`
+
+![](./images/9.png)
+
 ## Design `ohioarms`
 
 ![](./images/ohioarms.png)
